@@ -1,4 +1,4 @@
-# Welcome to Krishna Vemuri's Github page!
+# Welcome to my personal Github page!
 
 ## A bit about me:
 - Trained as a clinician in India, practiced for a bit following graduation from medical school, mostly as a general physician.
@@ -13,3 +13,8 @@ My motivation for joining this course is the challenges I faced as part of my wo
 
 ## What do I hope to take away from this course?
 My goal at the end of the course is to be confident about these aspects of reproducible science. Specifically, I want to be comfortable with handling large datasets, figuring out how to build workflows that avoid bottlenecks, and learn skills that help in collaborating with my teammates better. I recognize that these skills are an essential part of reproducible science, and am committed to developing these routines in my professional career.
+
+## To do: 
+1) Add logos: Mount Sinai, ECOSTRESS, UMass SPHHS, KMC Mangalore
+2) Add my LinkedIn page
+3) Add a fun video!
