@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to Krishna Vemuri's Github page!
 
-You can use the [editor on GitHub](https://github.com/krishnavemuri/fossprofile2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## A bit about me:
+- Trained as a clinician in India, practiced for a bit following graduation from medical school, mostly as a general physician.
+- MPH in Epidemiology from UMass Amherst.
+- Currently, biostatistician at the Environmental Medicine and Public Health Division of the Icahn School of Medicine at Mount Sinai, New York, NY.
+- Work with (Dr. Nicholas DeFelice)[!https://www.mountsinai.org/profiles/nicolas-defelice]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I work on a project whose final goal is to forecast outbreaks of West Nile Virus infections in humans, by modeling the positivity rate of West Nile Virus infection in mosquito vector populations in Suffolk County, NY. Since climatological conditions often predict positivty in mosquito populations, we are also aiming to take these conditions like atmospheric temperature, soil moisture, rainfall and humidity into account while predicting outbreaks of WNV in mosquito populations, which might foreshadow a spillover infection in humans.
 
-### Markdown
+## Motivation for taking the CyVerse FOSS 2020 course:
+My motivation for joining this course is the challenges I faced as part of my work in this project. I have no experience working with datasets of the magnitude of a few terabytes of remote sensing data in real time, and have struggled to develop and maintain workflows to process such data. My workflows initially were clumsy, did not take advantage of the processing power our lab offered and were too inflexible to allow portability to parallel projects. I had no experience with version control systems, so my work was often isolated, and could not benefit from work done previously or be integrated into my colleagues' work. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krishnavemuri/fossprofile2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What do I hope to take away fro mthis course?
+My goal at the end of the course is to be confident about these aspects of reproducible science. Specifically, I want to be comfortable with handling large datasets, figuring out how to build workflows that avoid bottlenecks, and learn skills that help in collaborating with my teammates better. I recognize that these skills are an essential part of reproducible science, and am committed to developing these routines in my professional career.
