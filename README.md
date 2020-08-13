@@ -4,7 +4,7 @@
 - Trained as a clinician in India, practiced for a bit following graduation from medical school, mostly as a general physician.
 - MPH in Epidemiology from UMass Amherst.
 - Currently, biostatistician at the Environmental Medicine and Public Health Division of the Icahn School of Medicine at Mount Sinai, New York, NY.
-- Work with [Dr. Nicholas DeFelice](!https://www.mountsinai.org/profiles/nicolas-defelice)
+- Work with [Dr. Nicholas DeFelice](https://www.mountsinai.org/profiles/nicolas-defelice)
 
 I work on a project whose final goal is to forecast outbreaks of West Nile Virus infections in humans, by modeling the positivity rate of West Nile Virus infection in mosquito vector populations in Suffolk County, NY. Since climatological conditions often predict positivty in mosquito populations, we are also aiming to take these conditions like atmospheric temperature, soil moisture, rainfall and humidity into account while predicting outbreaks of WNV in mosquito populations, which might foreshadow a spillover infection in humans.
 
