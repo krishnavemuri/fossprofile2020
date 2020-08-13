@@ -15,6 +15,6 @@ My motivation for joining this course is the challenges I faced as part of my wo
 My goal at the end of the course is to be confident about these aspects of reproducible science. Specifically, I want to be comfortable with handling large datasets, figuring out how to build workflows that avoid bottlenecks, and learn skills that help in collaborating with my teammates better. I recognize that these skills are an essential part of reproducible science, and am committed to developing these routines in my professional career.
 
 ## To do: 
-1) Add logos: Mount Sinai, ECOSTRESS, UMass SPHHS, KMC Mangalore \n
-2) Add my LinkedIn page \n
-3) Add a fun video!
+1. Add logos: Mount Sinai, ECOSTRESS, UMass SPHHS, KMC Mangalore 
+2. Add my LinkedIn page 
+3. Add a fun video!
