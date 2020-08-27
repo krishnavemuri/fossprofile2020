@@ -19,7 +19,7 @@ My goal at the end of the course is to be confident about these aspects of repro
 [Moutn Sinai EMPH](https://icahn.mssm.edu/about/departments/environmental-public-health)   
 [ECOSTRESS](https://ecostress.jpl.nasa.gov/)  
 
--Twitter feeds I follow:  
+- Twitter feeds I follow:  
 [EpiTwitter](https://twitter.com/search?q=%23epitwitter&src=typeahead_click)  
 [Mount Sinai EMPH](https://twitter.com/mountsinaiemph)  
 
