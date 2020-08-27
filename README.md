@@ -14,9 +14,12 @@ My motivation for joining this course is the challenges I faced as part of my wo
 ## What do I hope to take away from this course?
 My goal at the end of the course is to be confident about these aspects of reproducible science. Specifically, I want to be comfortable with handling large datasets, figuring out how to build workflows that avoid bottlenecks, and learn skills that help in collaborating with my teammates better. I recognize that these skills are an essential part of reproducible science, and am committed to developing these routines in my professional career.
 
+- Websites:  
 [My LinkedIn page ](https://www.linkedin.com/feed/)  
+[Moutn Sinai EMPH](https://icahn.mssm.edu/about/departments/environmental-public-health) 
+[ECOSTRESS](https://ecostress.jpl.nasa.gov/)  
+
+-Twitter feeds I follow:  
 [EpiTwitter](https://twitter.com/search?q=%23epitwitter&src=typeahead_click)  
 [Mount Sinai EMPH](https://twitter.com/mountsinaiemph)  
 
-## To do: 
-1. Add logos: Mount Sinai, ECOSTRESS, UMass SPHHS, KMC Mangalore 
