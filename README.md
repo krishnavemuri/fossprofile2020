@@ -16,7 +16,7 @@ My goal at the end of the course is to be confident about these aspects of repro
 
 - Websites:  
 [My LinkedIn page ](https://www.linkedin.com/feed/)  
-[Moutn Sinai EMPH](https://icahn.mssm.edu/about/departments/environmental-public-health) 
+[Moutn Sinai EMPH](https://icahn.mssm.edu/about/departments/environmental-public-health)   
 [ECOSTRESS](https://ecostress.jpl.nasa.gov/)  
 
 -Twitter feeds I follow:  
