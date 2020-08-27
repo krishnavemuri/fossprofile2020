@@ -16,5 +16,5 @@ My goal at the end of the course is to be confident about these aspects of repro
 
 ## To do: 
 1. Add logos: Mount Sinai, ECOSTRESS, UMass SPHHS, KMC Mangalore 
-2. Add my LinkedIn page 
+2. [My LinkedIn page ](https://www.linkedin.com/feed/)
 3. Add link to EpiTwitter
